@@ -1,6 +1,5 @@
 ## Build and Deploy Car Catalogue App with React, NextJS, TailwindCSS
-
-Full Stack MERN Next.js 13 NexLink App | React, Next JS, TypeScript
+This is a repository for a FullStack Car catalogue app using React, NextJS-13, TailwindCSS, RapidApi 
 
 # Technologies
 - Next.js 13.4 with Server Side Rendering
